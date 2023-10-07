@@ -3,7 +3,7 @@
 
 # !pip install streamlit
 
-!pip install yfinance
+pip install yfinance
 
 # !pip install ta
 
