@@ -4,7 +4,7 @@
 # !pip install streamlit
 
 # !pip install yfinance
-yfinance
+
 # !pip install ta
 
 # In[1]:
