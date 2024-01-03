@@ -3,3 +3,5 @@ numpy
 yfinance
 datetime
 ta
+streamlit
+python
