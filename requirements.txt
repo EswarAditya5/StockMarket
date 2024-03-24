@@ -4,4 +4,3 @@ yfinance
 datetime
 ta
 streamlit
-python
